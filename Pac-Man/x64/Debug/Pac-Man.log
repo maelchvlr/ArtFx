@@ -1,0 +1,77 @@
+﻿  ChaseCalculator.cpp
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\SpriteComponent.h(47,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\SpriteComponent.h(48,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ColliderComponent.h(37,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ColliderComponent.h(38,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(35,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(44,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(49,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(54,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(59,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(64,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ChaseCalculator.cpp(7,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ChaseCalculator.cpp(8,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ECS.h(133,41): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(74,9): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,float,float,int&,int&,int>(float &&,float &&,int &,int &,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  Collision.cpp
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\SpriteComponent.h(47,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\SpriteComponent.h(48,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(35,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(44,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(49,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(54,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(59,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(64,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ColliderComponent.h(37,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ColliderComponent.h(38,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ECS.h(133,41): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(74,9): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,float,float,int&,int&,int>(float &&,float &&,int &,int &,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  Game.cpp
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\SpriteComponent.h(47,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\SpriteComponent.h(48,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ColliderComponent.h(37,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ColliderComponent.h(38,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(35,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(44,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(49,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(54,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(59,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(64,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ECS.h(133,41): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\TileComponent.h(74,9): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,float,float,int&,int&,int>(float &&,float &&,int &,int &,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\ECS.h(133,41): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\fufla\Desktop\Pac-Man\Pac-Man\Game.cpp(86,8): message : see reference to function template instantiation 'T &Entity::addComponent<ColliderComponent,const char(&)[7],double>(const char (&)[7],double &&)' being compiled
+          with
+          [
+              T=ColliderComponent
+          ]
+  Generating Code...
+  Pac-Man.vcxproj -> C:\Users\fufla\Desktop\Pac-Man\x64\Debug\Pac-Man.exe
